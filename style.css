@@ -1,0 +1,57 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #97bb30;
+}
+
+/* ABOUT */
+#about {
+  background-color: #35a65f;
+}
+
+#introduction {
+  background-color: #3b4a3f;
+}
+
+#pendidikan {
+  background-color: #9eafa2;
+}
+
+#hobi {
+  background-color: #00a4e6;
+}
+
+#pengalaman {
+  background-color: #0070ae;
+}
+
+/* Projects */
+#projects {
+  background-color: #00897a;
+}
+
+/* Galery */
+#galery {
+  background-color: #006877;
+}
+
+.carousel-contain {
+  background-color: #ffffff;
+}
+
+/* Contact Me */
+#contact {
+  background-color: #2f4858;
+}
+
+/* Footer */
+.footer {
+  background-color: #5f788a;
+}
+
+section {
+  padding-top: 5rem;
+}
